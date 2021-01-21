@@ -39,3 +39,7 @@
    .entry:hover {
        background-color: steelblue;
    }
+
+   p{
+       color: darkblue;
+   }
