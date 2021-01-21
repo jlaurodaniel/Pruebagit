@@ -1,0 +1,41 @@
+   body {
+       background: url(img/bg.jpg) no-repeat fixed center;
+       color: white;
+   }
+   
+   .center {
+       margin-left: 10%;
+       margin-right: 10%;
+   }
+   
+   .header img {
+       width: 500;
+       height: 250px;
+   }
+   
+   .wrapper {
+       padding: auto;
+       margin: auto;
+       text-align: center;
+   }
+   
+   .entry {
+       float: left;
+   }
+   
+   .entry img {
+       width: 290px;
+       height: 200px;
+       padding: 10px;
+       margin: 0 auto;
+       background-color: white;
+       border-radius: 15px;
+   }
+   
+   .entry img:hover {
+       border-radius: 50px;
+   }
+   
+   .entry:hover {
+       background-color: steelblue;
+   }
